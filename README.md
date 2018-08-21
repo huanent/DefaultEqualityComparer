@@ -1,2 +1,2 @@
 # DefaultEqualityComparer
-拓展IEqualityComparer
+拓展C# IEqualityComparer
